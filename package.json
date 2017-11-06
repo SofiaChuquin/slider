@@ -2,15 +2,13 @@
   "name": "nodejs-slider",
   "version": "1.0.0",
   "description": "Simple nodejs app",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "~1.0.0",
-    "body-parser": "^1.18.2",
+    "ejs": "^1.0.0",
     "express": "^4.16.2"
   }
 }
