@@ -7,12 +7,17 @@ html, body {
   box-sizing: border-box;
 }
 
-.container .jumbotron {
+.jumbotron {
   border-radius: 40px;
+  margin: 10px;
 }
 
 .title {
   text-align: center;
+}
+
+.subtitle {
+  margin: 0 10px;
 }
 
 .photos-slider {
